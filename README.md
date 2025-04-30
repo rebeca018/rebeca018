@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🧪 I'm currently developing a chatbot on Telegram called QuiTest
-- 📫 How to reach me: rebeca.nascimento@estudante.ifms.edu.br | www.linkedin.com/in/rebeca-nascimento018
+- 🧪 I developed a chatbot on Telegram called QuiTest, find out more at: https://linktr.ee/quitest
+- 📫 How to reach me: rebecasnascimento018@gmail.com | www.linkedin.com/in/rebeca-nascimento018
 <!--
 **rebeca018/rebeca018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
